@@ -1,6 +1,6 @@
 package day_1;
 
-public class AllGood {
+public class class_1 {
 
     public static void main(String[] args) {
 
